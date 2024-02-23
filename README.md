@@ -1,24 +1,17 @@
-<h1>Browser Camera App</h1>
+  # Browser Camera App
 
-<p>Simple Camera App written in HTML, CSS, and JavaScript which can be used to record and capture images.</p>
+!Browser Camera Demo
 
-<h3>Used Technologies</h3>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-</ul>
+This project is a simple browser-based camera application that allows users to capture photos and record videos using their webcam. It's written in HTML, CSS, and JavaScript.
 
-#### Steps to Use:
+## Used Technologies
 
----
+- HTML5
+- CSS3
+- JavaScript
 
-- Download or clone the repository
+  ## Features:
 
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the 'Browser Camera' directory
-- Run the index.html file
-- Start using the camera!!
+- Capture photos with your webcam.
+- Record videos.
+- Save captured media to your local storage.
