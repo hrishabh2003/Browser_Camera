@@ -1,7 +1,5 @@
   # Browser Camera App
 
-!Browser Camera Demo
-
 This project is a simple browser-based camera application that allows users to capture photos and record videos using their webcam. It's written in HTML, CSS, and JavaScript.
 
 ## Used Technologies
